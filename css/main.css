@@ -189,7 +189,7 @@ footer span {
 }
 
 /********* DESKTOP **********/
-@media screen and (min-width: 1200px;){
+@media screen and (min-width: 1200px){
 	header {
 		justify-content: space-between;
 	}
@@ -207,6 +207,6 @@ footer span {
 
 	header nav ul {
 		display: flex;
-		justify-content: space-between;
+		justify-content: space-betweenChanged;
 	}
 }
